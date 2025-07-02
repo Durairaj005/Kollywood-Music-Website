@@ -46,7 +46,7 @@ A web-based music player application with user authentication, session protectio
 
 1. **Clone or Download the Repository**
 
-   git clone https://github.com/yourusername/SoundSculpt.git
+   git clone https://github.com/Durairaj005/SoundSculpt.git
   
 
 2. **Move the Project to XAMPP's `htdocs` Directory**
